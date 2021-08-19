@@ -1,52 +1,52 @@
-µã²¥£º
-Ä¢¹½,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,¿Õ
-èÖ×Ó×ÊÔ´,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,¿Õ
-Ìì¿Õ×ÊÔ´,http://api.tiankongapi.com/api.php/provide/vod/at/xml,¿Õ
-¿ì²¥ÔÆ,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,¿Õ
-Õ¬¿´Ó°ÊÓ,http://www.zhaikanys.xyz/api.php/provide/vod/at/xml,¿Õ
-Ã÷ÈÕ×ÊÔ´,http://zy.zcocc.com/api.php/provide/vod/at/xml,¿Õ
-39Ó°ÊÓ,https://www.39kan.com/api.php/provide/vod/at/xml,¿Õ
-´©Ëó×ÊÔ´,http://ok.888hyk.com/api.php/provide/vod/at/xml,¿Õ
-·¹ÍÅ×ÊÔ´,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,¿Õ
-¾ÅÁã×ÊÔ´,http://www.9xku.com/api.php/provide/vod/at/xml,¿Õ
-M3U8.TV×ÊÔ´,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,¿Õ
-°Ë½ä,http://cj.bajiecaiji.com/inc/bjm3u8.php,¿Õ
-1186×ÊÔ´,http://cj.1886zy.co/inc/api.php,¿Õ
-1886zy,http://cj.1886zy.co/inc/api.php,¿Õ
-Ìì¿ÕÔÆ,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,¿Õ
-°Ë½äÔÆ,http://cj.bajiecaiji.com/inc/bjm3u8.php,¿Õ
-88 Ó°ÊÓ,http://www.88zyw.net/inc/api.php,¿Õ
-Áã¶È×ÊÔ´,https://zy.kuluni.cn/api.php/provide/vod/at/xml,¿Õ
-Ã÷ÈÕ×ÊÔ´,http://zy.zcocc.com/api.php/provide/vod/at/xml,¿Õ
-½áÊø
+ï»¿ç‚¹æ’­ï¼š
+è˜‘è‡,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,ç©º
+æŸšå­èµ„æº,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,ç©º
+å¤©ç©ºèµ„æº,http://api.tiankongapi.com/api.php/provide/vod/at/xml,ç©º
+å¿«æ’­äº‘,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,ç©º
+å®…çœ‹å½±è§†,http://www.zhaikanys.xyz/api.php/provide/vod/at/xml,ç©º
+æ˜æ—¥èµ„æº,http://zy.zcocc.com/api.php/provide/vod/at/xml,ç©º
+39å½±è§†,https://www.39kan.com/api.php/provide/vod/at/xml,ç©º
+ç©¿æ¢­èµ„æº,http://ok.888hyk.com/api.php/provide/vod/at/xml,ç©º
+é¥­å›¢èµ„æº,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,ç©º
+ä¹é›¶èµ„æº,http://www.9xku.com/api.php/provide/vod/at/xml,ç©º
+M3U8.TVèµ„æº,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,ç©º
+å…«æˆ’,http://cj.bajiecaiji.com/inc/bjm3u8.php,ç©º
+1186èµ„æº,http://cj.1886zy.co/inc/api.php,ç©º
+1886zy,http://cj.1886zy.co/inc/api.php,ç©º
+å¤©ç©ºäº‘,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,ç©º
+å…«æˆ’äº‘,http://cj.bajiecaiji.com/inc/bjm3u8.php,ç©º
+88 å½±è§†,http://www.88zyw.net/inc/api.php,ç©º
+é›¶åº¦èµ„æº,https://zy.kuluni.cn/api.php/provide/vod/at/xml,ç©º
+æ˜æ—¥èµ„æº,http://zy.zcocc.com/api.php/provide/vod/at/xml,ç©º
+ç»“æŸ
 
-½âÎö£º
-jsonÆß¸ç,http://jx.mmkv.cn/json.php?url=
+è§£æï¼š
+jsonä¸ƒå“¥,http://jx.mmkv.cn/json.php?url=
 618G,http://playx.top/?url=
-Æß¸ç,http://jx.mmkv.cn/tv.php?url=
-½áÊø
+ä¸ƒå“¥,http://jx.mmkv.cn/tv.php?url=
+ç»“æŸ
 
 
-Ö±²¥£º
-¡¾·ÖÀàÍ·¡¿ÑëÊÓÆµµÀ-ÎÀÊÓÆµµÀ-µçÓ°ÆµµÀ-ÆäËûÆµµÀ¡¾·ÖÀàÎ²¡¿
+ç›´æ’­ï¼š
+ã€åˆ†ç±»å¤´ã€‘å¤®è§†é¢‘é“-å«è§†é¢‘é“-ç”µå½±é¢‘é“-å…¶ä»–é¢‘é“ã€åˆ†ç±»å°¾ã€‘
 
-¡¾ÑëÊÓÆµµÀÍ·¡¿
-    CCTV-1×ÛºÏ,http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
-    CCTV-2²Æ¾­,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-¡¾ÑëÊÓÆµµÀÎ²¡¿
+ã€å¤®è§†é¢‘é“å¤´ã€‘
+    CCTV-1ç»¼åˆ,http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
+    CCTV-2è´¢ç»,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+ã€å¤®è§†é¢‘é“å°¾ã€‘
 
-¡¾ÎÀÊÓÆµµÀÍ·¡¿
-    ºÓ±±ÎÀÊÓ,http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
-    ¶«·½ÎÀÊÓ,http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8
-¡¾ÎÀÊÓÆµµÀÎ²¡¿
+ã€å«è§†é¢‘é“å¤´ã€‘
+    æ²³åŒ—å«è§†,http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
+    ä¸œæ–¹å«è§†,http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8
+ã€å«è§†é¢‘é“å°¾ã€‘
    
-¡¾µçÓ°ÆµµÀÍ·¡¿
-    ºÚİ®µçÓ° 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-    ºÚİ®µçÓ°À¶¹â,http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
-¡¾µçÓ°ÆµµÀÎ²¡¿
+ã€ç”µå½±é¢‘é“å¤´ã€‘
+    é»‘è“ç”µå½± 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+    é»‘è“ç”µå½±è“å…‰,http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+ã€ç”µå½±é¢‘é“å°¾ã€‘
 
-¡¾ÆäËûÆµµÀÍ·¡¿
-    ¶·ÓãµçÓ°2,http://666.stop.kim/douyu.php?id=218859
-    ¶·ÓãµçÓ°2FHD,http://tx2play1.douyucdn.cn/lve/20415rnWbjg6Ex1K.xs
-¡¾ÆäËûÆµµÀÎ²¡¿
-½áÊø
+ã€å…¶ä»–é¢‘é“å¤´ã€‘
+    æ–—é±¼ç”µå½±2,http://666.stop.kim/douyu.php?id=218859
+    æ–—é±¼ç”µå½±2FHD,http://tx2play1.douyucdn.cn/lve/20415rnWbjg6Ex1K.xs
+ã€å…¶ä»–é¢‘é“å°¾ã€‘
+ç»“æŸ
